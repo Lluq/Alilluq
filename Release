@@ -1,0 +1,7 @@
+Origin: test 3li7n 
+Label: 3li7n 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: repo
